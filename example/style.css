@@ -31,6 +31,7 @@ input {
 	padding-top:6px;
 	padding-bottom:6px;
 	border-radius:1px;
+	margin-top:0px;
 }
 .reveal_button_container {
 	width:30px;
