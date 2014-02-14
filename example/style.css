@@ -23,6 +23,8 @@ h4 {
 }
 input {
 	width:75%;
+	height:30px;
+	box-sizing:border-box;
 	float:left;
 	border-color:#ccc;
 	border-width:1px;
